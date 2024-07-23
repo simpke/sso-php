@@ -1,5 +1,5 @@
 <?php
-namespace Zulvan\App;
+namespace src;
 
 class GetToken {
     function GetAksesToken(){
